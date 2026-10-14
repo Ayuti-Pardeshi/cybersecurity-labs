@@ -1,0 +1,68 @@
+
+# Basic Linux Commands
+
+## Overview
+- **Subject:** Linux Administration
+- **Lab:** Basic Linux Commands
+- **Environment:** [Kali Linux / Ubuntu / other]
+- **Topics:** Directory navigation, file management,
+  text processing, searching, and command-line utilities.
+
+## Objectives
+- Navigate the Linux filesystem.
+- Create and manage files and directories.
+- View, search, and count text-file contents.
+- Understand absolute and relative paths.
+
+## Part A — Directory Navigation
+
+### 1. Display the current working directory
+
+**Command**
+```bash
+pwd
+```
+
+**Learning:** `pwd` prints the current working directory.
+
+### 2. List directory contents
+
+**Command**
+```bash
+ls
+```
+
+**Learning:** `ls` lists directory entries.
+
+## Part B — Creating Files and Directories
+
+Document the commands you used to create the
+Linux_Assignment directory, its subdirectories,
+and the required files.
+
+Include your actual directory structure.
+
+## Part C — Working with Files
+
+Document the commands used to:
+- Write information to file1.txt.
+- Copy and move files.
+- Rename file2.txt.
+- Create commands.txt with at least 10 commands.
+- View files using cat and less.
+
+## Part D — Viewing and Searching
+
+Document the commands and actual outputs for:
+- `head -n 5 /etc/passwd`
+- `tail -n 5 /etc/passwd`
+- `wc commands.txt`
+- `grep Linux file1.txt`
+- Finding `.txt` files inside Linux_Assignment.
+- Finding `file1.txt` from your home directory.
+
+## Key Learnings
+
+
+## Disclaimer
+Performed in my own Linux lab environment.
